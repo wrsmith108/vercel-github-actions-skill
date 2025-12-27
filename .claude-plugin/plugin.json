@@ -1,0 +1,19 @@
+{
+  "name": "vercel-github-actions",
+  "description": "Vercel deployment and GitHub Actions CI/CD patterns. Use when deploying to Vercel, managing environments, creating staging URLs, or setting up GitHub Actions workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "William Smith",
+    "url": "https://github.com/wrsmith108"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vercel",
+    "github-actions",
+    "ci-cd",
+    "deployment",
+    "staging",
+    "preview",
+    "production"
+  ]
+}
